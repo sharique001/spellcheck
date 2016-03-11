@@ -1,5 +1,5 @@
 # SpellCheck
-Assignment for CE/CZ 1003 - Introduction to Computational Thinking
+Assignment for CE/CZ 1003 - Introduction to Computational Thinking at NTU, Singapore.
 
 A script written in Python that analyzes a single word input and returns the most similar words to it, if the word is spelled incorrectly.
 
