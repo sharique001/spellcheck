@@ -15,3 +15,4 @@ A script written in Python that takes in a single word input and checks for spel
 Edited
 Edited
 Edited
+Edited
