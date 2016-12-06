@@ -13,3 +13,4 @@ A script written in Python that takes in a single word input and checks for spel
 <br>
 **_Disclaimer:_** This repo is no longer maintained and was submitted as part of the coursework assignment for CE/CZ 1003 at NTU in AY14/15 Semester 1.
 Edited
+Edited
